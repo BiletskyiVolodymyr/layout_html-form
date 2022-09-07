@@ -10,3 +10,7 @@
 .love_cat {
   display: inline-block;
 }
+
+.form_elements:last-child {
+  margin-bottom: 0;
+}
