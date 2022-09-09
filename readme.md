@@ -1,5 +1,5 @@
 # HTML form
-Replace `<your_account>` with your Github username and copy the links to Pull Request description:
+Replace `<BiletskyiVolodymyr>` with your Github username and copy the links to Pull Request description:
 - [DEMO LINK](https://<BiletskyiVolodymyr>.github.io/layout_html-form/)
 - [TEST REPORT LINK](https://<BiletskyiVolodymyr>.github.io/layout_html-form/report/html_report/)
 
